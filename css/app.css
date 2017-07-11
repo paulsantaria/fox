@@ -7,6 +7,9 @@ body {
 h1 {
   margin: 0;
 }
+#collapse-bar {
+
+}
 #btn-action {
   font-size: 15px;
   background: #FB2056;
@@ -366,7 +369,7 @@ line-height: 23.5px;
 #navbarNav {
   background: white;
   position: absolute;
-  z-index: 3;
+  z-index: 2000;
   top: 0;
   right: 0;
   left: 0;
